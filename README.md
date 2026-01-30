@@ -1,0 +1,1 @@
+StepNest is an e-commerce website developed for online shoe shopping, offering various footwear categories such as formal shoes, running shoes, and casual shoes. The platform provides an easy-to-use interface where users can browse products, view details, and add items to the cart. StepNest focuses on responsive design, smooth navigation, and a simple shopping experience.
