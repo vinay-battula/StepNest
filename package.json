@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "StepNest is an e-commerce website developed for online shoe shopping, offering various footwear categories such as formal shoes, running shoes, and casual shoes. The platform provides an easy-to-use interface where users can browse products, view details, and add items to the cart. StepNest focuses on responsive design, smooth navigation, and a simple shopping experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay-battula/StepNest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinay-battula/StepNest/issues"
+  },
+  "homepage": "https://github.com/vinay-battula/StepNest#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.19.1"
+  }
+}
